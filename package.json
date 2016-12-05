@@ -1,0 +1,26 @@
+{
+  "name": "sportsgame",
+  "version": "1.0.0",
+  "description": "A simple sports game made with NodeJS. Pretty generic.. can be any sports game",
+  "main": "players.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhyngoh/SPORTS-game.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Sports"
+  ],
+  "author": "Ryan Ngoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhyngoh/SPORTS-game/issues"
+  },
+  "homepage": "https://github.com/Rhyngoh/SPORTS-game#readme",
+  "dependencies": {
+    "inquirer": "^1.2.3"
+  }
+}
